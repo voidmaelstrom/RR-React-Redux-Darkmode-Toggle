@@ -7,7 +7,7 @@ const mode1 = {
     color3: '#4F5165',
     color4: '#547AA5',
     color5: '#50D8D7',
-    photo: 'https://collectionapi.metmuseum.org/api/collection/v1/iiif/827660/1989968/main-image?w=300&h=410'
+    photo: 'https://picsum.photos/200/300'
 }
 
 const mode2 = {
@@ -17,7 +17,7 @@ const mode2 = {
     color3: '#FFC2E2',
     color4: '#FF90B3',
     color5: '#EF7A85',
-    photo: 'https://images.metmuseum.org/CRDImages/ep/original/DT2013.jpg?w=300&h=222'
+    photo: 'https://placekitten.com/200/300'
 }
 
 const initialState = mode2
